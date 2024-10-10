@@ -1,0 +1,8 @@
+train: D:/Object_Detection/Dataset/train/images
+val: D:/Object_Detection/Dataset/valid/images
+test: D:/Object_Detection/Dataset/test/images
+
+nc: 2
+names: ['id card', 'without-idcard']
+
+z
